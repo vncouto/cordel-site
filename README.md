@@ -1,2 +1,2 @@
 # cordel-site
- Paralax effect study testing.
+ Paralax effect with CSS study testing.
